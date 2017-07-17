@@ -10,7 +10,7 @@ The latest version of Mac OS X, Sierra, **comes with Python 2.7 out of the box**
 You do not need to install or configure anything else to use Python 2. These
 instructions document the installation of Python 3.
 
-The version of Python that ships with OS X is great for learning but it's not
+The version of Python that ships with OS X is great for learning, but it's not
 good for development. The version shipped with OS X may be out of date from the
 `official current Python release <https://www.python.org/downloads/mac-osx/>`_,
 which is considered the stable production version.
@@ -90,7 +90,7 @@ will launch the Python 2 interpreter.
 
     $ python3
 
-will launch the Python 3 interpreter
+will launch the Python 3 interpreter.
 
 ``pip3`` and ``pip`` will both be available.  If the Homebrew version of Python
 2 is not installed, they will be the same.  If the Homebrew version of Python 2
