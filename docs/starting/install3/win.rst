@@ -3,7 +3,9 @@
 Installing Python 3 on Windows
 ==============================
 
-First, download the `latest version <https://www.python.org/ftp/python/3.6.0/python-3.6.0.exe>`_
+.. image:: https://farm5.staticflickr.com/4276/34435689480_2e6f358510_k_d.jpg
+
+First, download the `latest version <https://www.python.org/ftp/python/3.6.2/python-3.6.2.exe>`_
 of Python 3.6 from the official website. If you want to be sure you are installing a fully
 up-to-date version, click the Downloads > Windows link from the home page of the
 `Python.org web site <http://python.org>`_ .
@@ -82,8 +84,10 @@ To install pip, run the Python script available here:
 `get-pip.py <https://raw.github.com/pypa/pip/master/contrib/get-pip.py>`_
 
 
-Virtual Environments
---------------------
+Pipenv & Virtual Environments
+-----------------------------
+
+The next step it to install Pipenv, so you can install dependencies and manage virtual environments. 
 
 A Virtual Environment is a tool to keep the dependencies required by different projects
 in separate places, by creating virtual Python environments for them. It solves the
@@ -93,8 +97,7 @@ your global site-packages directory clean and manageable.
 For example, you can work on a project which requires Django 1.10 while also
 maintaining a project which requires Django 1.8.
 
-To start using this and see more information: :ref:`Virtual Environments <virtualenvironments-ref>` docs.
-
+So, onward! To the :ref:`Pipenv & Virtual Environments <virtualenvironments-ref>` docs!
 
 --------------------------------
 

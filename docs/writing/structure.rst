@@ -1,6 +1,8 @@
 Structuring Your Project
 ========================
 
+.. image:: https://farm5.staticflickr.com/4203/33907151224_0574e7dfc2_k_d.jpg
+
 By "structure" we mean the decisions you make concerning
 how your project best meets its objective. We need to consider how to
 best leverage Python's features to create clean, effective code.
